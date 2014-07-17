@@ -1,8 +1,8 @@
 # These are the required packages for the quant-econ package to build
 
-matplotlib>=1.2
-numpy>=1.6
+matplotlib
+numpy
 numpydoc
-pandas>=0.12.1
-scipy>=0.12.1
+pandas
+scipy
 
