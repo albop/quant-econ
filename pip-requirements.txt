@@ -2,13 +2,13 @@
 
 ipython
 
-numpy>=1.6
+numpy
 
 numpydoc
 
-scipy>=0.12.1
+scipy
 
-matplotlib>=1.2
+matplotlib
 
-pandas>=0.12.1
+pandas
 
