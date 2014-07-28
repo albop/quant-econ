@@ -2,7 +2,8 @@ from distutils.core import setup
 
 setup(
   name = 'quantecon',
-  packages = ['quantecon'], 
+  packages = ['quantecon'],
+
   version = '0.1.3',
   description = 'Code for quant-econ.net',
   author = 'Thomas J. Sargent and John Stachurski',

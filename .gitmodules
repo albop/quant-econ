@@ -1,0 +1,3 @@
+[submodule "extern/dolo"]
+	path = extern/dolo
+	url = https://github.com/EconForge/dolo.git
